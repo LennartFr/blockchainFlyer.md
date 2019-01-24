@@ -15,6 +15,8 @@ Important links for developers:
 <li> Blockchain Use Cases: https://www.ibm.com/blockchain/use-cases/
 
 <li> IBM Blockchain Services: https://www.ibm.com/blockchain/services
+  
+<li> IBM Blockchain Platform: https://www.ibm.com/cloud/blockchain-platform  
 
 <li> IBM Blockchain VSCode extension: https://github.com/IBM-Blockchain/blockchain-vscode-extension
   
