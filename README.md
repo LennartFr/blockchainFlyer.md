@@ -7,8 +7,17 @@ IBM is a major player in the Blockchain spacde with the upen source Hyperledger 
 
 Important links for developers:
 
-What is blockchain? https://www.ibm.com/blockchain/what-is-blockchain
+<ui>
+<li> What is blockchain? https://www.ibm.com/blockchain/what-is-blockchain
 
-Hyperledger: blockchain collaboration changing the business world https://www.ibm.com/blockchain/hyperledger
+<li> Hyperledger: blockchain collaboration changing the business world https://www.ibm.com/blockchain/hyperledger
+
+<li> Blockchain Use Cases: https://www.ibm.com/blockchain/use-cases/
+
+<li> IBM Blockchain Services: https://www.ibm.com/blockchain/services
+
+<li> IBM Blockchain VSCode extension: https://github.com/IBM-Blockchain/blockchain-vscode-extension
+  
+</ul>  
 
 
